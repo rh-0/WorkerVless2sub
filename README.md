@@ -85,7 +85,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 
  **3.2 修改 addressesapi 参数示例**
- - 优选ip网站
+ - 优选ip网站 https://cf.090227.xyz/
  - 修改 `addressesapi` 参数，在脚本中设置 `addressesapi` 变量为 **优选IP地址txt文件** 的 URL。例如：
 	```js
 	let addressesapi = [
